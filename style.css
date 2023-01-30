@@ -1,0 +1,9 @@
+.container h2{
+    font-family: 'Dancing Script', cursive;
+}
+.carousel-item img{
+    height : 80vh;
+}
+.row{
+    width : 100vw;
+}
