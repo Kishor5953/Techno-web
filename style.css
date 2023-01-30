@@ -2,8 +2,15 @@
     font-family: 'Dancing Script', cursive;
 }
 .carousel-item img{
+    width : 60vw;
     height : 80vh;
 }
 .row{
     width : 100vw;
+}
+.custom-background{
+    background-color:  #030e4c;
+}
+.custom-background-1{
+    background-color: grey;
 }
